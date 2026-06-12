@@ -6,7 +6,7 @@ This directory contains notebooks that study an efficient relaxation of the line
 - Python 3.x
 - `numpy`, `scipy`, `matplotlib`, `sympy`
 - `cvxpy` with the MOSEK solver
-- `joblib`, `tqdm` (parallel Monte-Carlo in `eff_relax_plots.ipynb`)
+- `joblib`, `tqdm` (`eff_relax_plots.ipynb`)
 - `quspin` (only in `relaxation_vs_optimal.ipynb` and `tradeoff_graphs.ipynb`)
 
 ## Notebooks
