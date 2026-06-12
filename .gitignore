@@ -1,0 +1,50 @@
+# Mac
+.DS_Store
+*.bcf
+
+# Build directories
+build/
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.vrb
+*.snm
+*.nav
+
+# PGF
+*.dpth
+*.md5
+
+# latexmk
+*.fdb_latexmk
+*.fls
+
+# BibTeX
+*.bbl
+*.blg
+*Notes.bib
+
+# BibLatex
+*.run.xml
+*-blx.bib
+
+
+# Compiled PDFs
+*.pdf
+# Note: PDFs for figures will be ignored *unless* they are in a subdirectory!
+# MJS: I think the note is not correct; *.pdf should ignore PDFs in any folder
+#      at or below the level of the .gitignore. They can still be versioned
+#      over git's warning, of course.
+!*/figures/*.pdf
+
+# Misc
+*.tar
+*.bat
+*.lnk
+*.synctex
+tikzcompile_mint
+.DS_Store
