@@ -48,3 +48,4 @@ build/
 *.synctex
 tikzcompile_mint
 .DS_Store
+.hdf5
