@@ -1,5 +1,5 @@
 # Mac
-.DS_Store
+*.DS_Store
 *.bcf
 
 # Build directories
@@ -47,5 +47,4 @@ build/
 *.lnk
 *.synctex
 tikzcompile_mint
-.DS_Store
-.hdf5
+*.hdf5
